@@ -13,6 +13,7 @@ public class Earth {
 			String s1 = sc.nextLine();
 			System.out.println(s1);
 			System.out.println("adding one more line");
+			System.out.println("adding 2nd line");
 		}
 		sc.close();
 	}
